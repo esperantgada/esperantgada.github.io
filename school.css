@@ -156,7 +156,7 @@ h6 {
 	margin: 5px 0;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   body.works_on_smartphone {
   	display: block;
   }
